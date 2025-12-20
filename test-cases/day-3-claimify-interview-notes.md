@@ -72,7 +72,7 @@
 5. Six-type taxonomy (from research synthesis - be honest)
 
 ### RESEARCH
-6. Microsoft paper origin - find and link
+6. Microsoft paper origin - LINKED: https://arxiv.org/abs/2502.10855
 7. METR report example - subagent running (agent ID: a6f5039)
 
 ### COUNTER

@@ -57,7 +57,7 @@ Claimify is a Claude skill for claim extraction and argument analysis. It does t
 
 **3. Mapping.** How do claims relate? Which support which? Which contradict? Which assume others without acknowledgment? The structure of the argument, made visible.
 
-I had Claude research argumentation theory—claim typing, relationship mapping, logical structure—and synthesize it into something practical. The taxonomy isn't original; the integration is.
+The approach isn't novel. Microsoft Research published [a paper on LLM-based claim extraction](https://arxiv.org/abs/2502.10855) (also called Claimify) showing that language models can reliably extract and evaluate factual claims—outperforming existing methods when handling ambiguous source text. I had Claude research argumentation theory and synthesize it into something practical for my workflow. The taxonomy isn't original; the integration is.
 
 ---
 

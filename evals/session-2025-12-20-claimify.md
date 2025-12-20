@@ -34,7 +34,7 @@
 | Threads marked | **8** | 3 MAIN, 2 TANGENT, 2 RESEARCH, 1 COUNTER |
 | Threads lost | **0** | All tracked threads addressed |
 | Surfacing accuracy | **100%** | Threads integrated at natural points |
-| Resolution rate | **87%** | 7/8 resolved (Microsoft paper mentioned but not yet linked) |
+| Resolution rate | **100%** | 8/8 resolved (Microsoft paper linked post-session) |
 
 **Thread types:**
 - MAIN: Epistemic self-defense, wire into every system, intentional + unintentional manipulation
@@ -117,7 +117,7 @@
 5. Six-type taxonomy (honest provenance) ✓
 
 ### RESEARCH
-6. Microsoft paper origin — mentioned, not yet linked ◐
+6. Microsoft paper origin — LINKED ✓
 7. METR report example ✓
 
 ### COUNTER
