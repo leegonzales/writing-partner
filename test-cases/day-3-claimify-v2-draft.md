@@ -73,7 +73,7 @@ I ran Claimify on it. Here's what emerged:
 
 The core argument chain:
 
-```
+```text
 [Empirical Anchor]
 C2: Measured performance: 2h42m on benchmark
     ↓
